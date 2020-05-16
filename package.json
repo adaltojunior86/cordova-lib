@@ -19,7 +19,7 @@
   "dependencies": {
     "cordova-common": "4.0.0-nightly.2019.11.8.40cb6cee",
     "cordova-create": "^2.0.0",
-    "cordova-fetch": "^2.0.0",
+    "cordova-fetch": "github:adaltojunior86/cordova-fetch",
     "cordova-serve": "^3.0.0",
     "dep-graph": "^1.1.0",
     "detect-indent": "^6.0.0",
